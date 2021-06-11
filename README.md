@@ -13,3 +13,9 @@
   Buat file baru dengan nama footer.php
   ![lab9_php_modular(2)](https://user-images.githubusercontent.com/82009410/121449255-a3de6980-c9c3-11eb-8814-4c25941fc7ac.PNG)
   
+  buat file baru dengan nama home.php
+  ![image](https://user-images.githubusercontent.com/82009410/121694291-2ebe8180-caf4-11eb-8cfc-5fd0512bdd6f.png)
+  
+  Buat file baru dengan nama about.php
+  ![about](https://user-images.githubusercontent.com/82009410/121696191-033c9680-caf6-11eb-96c2-f51c642abb08.PNG)
+
