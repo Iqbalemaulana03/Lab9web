@@ -19,3 +19,34 @@
   Buat file baru dengan nama about.php
   ![about](https://user-images.githubusercontent.com/82009410/121696191-033c9680-caf6-11eb-96c2-f51c642abb08.PNG)
 
+# pertanyaan dan tugas
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang
+database, sehingga setiap halamannya memiliki template tampilan yang sama.
+
+# HOME.PHP
+![home](https://user-images.githubusercontent.com/82009410/121765263-de870400-cb73-11eb-8fd6-46ea09821e5d.PNG)
+
+# HASILNYA
+![a](https://user-images.githubusercontent.com/82009410/121765277-f1013d80-cb73-11eb-979c-f2f47ecc79ab.PNG)
+
+# Tambah.php
+![tambahh](https://user-images.githubusercontent.com/82009410/121765382-a6cc8c00-cb74-11eb-9dc7-540bf57cfcf3.PNG)
+![tambahh1](https://user-images.githubusercontent.com/82009410/121765391-b21fb780-cb74-11eb-91ef-8ba7e2661f70.PNG)
+![tambahh2](https://user-images.githubusercontent.com/82009410/121765398-bc41b600-cb74-11eb-978b-f51239a93091.PNG)
+
+# HASILNYA
+![b](https://user-images.githubusercontent.com/82009410/121765411-d11e4980-cb74-11eb-9bd1-b37310a58762.PNG)
+
+# Ubah.php
+![ubah(1)](https://user-images.githubusercontent.com/82009410/121765519-8bae4c00-cb75-11eb-9333-d521ec5707d1.PNG)
+![ubah(2)](https://user-images.githubusercontent.com/82009410/121765523-9537b400-cb75-11eb-85c3-011c3238c034.PNG)
+![ubah3](https://user-images.githubusercontent.com/82009410/121765528-9e288580-cb75-11eb-9b72-02212dfefb5f.PNG)
+
+# HASILNYA
+![c](https://user-images.githubusercontent.com/82009410/121765536-aed8fb80-cb75-11eb-96b3-3558d669b214.PNG)
+
+
+
+
+
+
