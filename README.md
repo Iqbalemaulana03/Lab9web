@@ -45,6 +45,13 @@ database, sehingga setiap halamannya memiliki template tampilan yang sama.
 # HASILNYA
 ![c](https://user-images.githubusercontent.com/82009410/121765536-aed8fb80-cb75-11eb-96b3-3558d669b214.PNG)
 
+# style.css
+![style1](https://user-images.githubusercontent.com/82009410/121765601-548c6a80-cb76-11eb-9968-5a1be065578a.PNG)
+![style2](https://user-images.githubusercontent.com/82009410/121765609-6241f000-cb76-11eb-866b-e83a5db408e4.PNG)![style3](https://user-images.githubusercontent.com/82009410/121765630-869dcc80-cb76-11eb-8d49-6ff2be9e2783.PNG)
+![style4](https://user-images.githubusercontent.com/82009410/121765634-8f8e9e00-cb76-11eb-99f2-9ff28ff62046.PNG)
+
+
+
 
 
 
